@@ -1,0 +1,6 @@
+mypy
+pytest
+fpdf2
+pick
+click
+tabulate
